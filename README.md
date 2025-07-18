@@ -59,7 +59,7 @@ pip install torch torchvision torch-geometric scikit-learn matplotlib seaborn
 - ML404_resnet18_pygcn_model.ipynb → Graph-based GCN training & evaluation.
 - Tip: Training on GPU (CUDA) is recommended for faster performance.
 
-
+---
 
 ## **Acknowledgements**
 
@@ -68,8 +68,7 @@ Special thanks to:
 - **Dr. Kristen Johnson** for guidance throughout the course.
 - My teammates: **Gabriel Treutle, Aaryan Naruka, Vish Challa, Ryan Krupp, and Pratham Pradhan** for their contributions in data preprocessing, training, and evaluation.
 
-
-
+---
 
 ## **References**
 
@@ -77,3 +76,14 @@ Special thanks to:
 - Zhu, X. X., et al. *Deep Learning in Remote Sensing: A Comprehensive Review and List of Resources*. IEEE, 2017.
 - Veličković, P., et al. *Graph Attention Networks*. ArXiv, 2017.
 - Chen, Y., et al. *Deep Feature Extraction and Classification of Hyperspectral Images Based on Convolutional Neural Networks*. IEEE Transactions on Geoscience and Remote Sensing, 2016.
+
+---
+
+# **Related Files**
+
+[![Proposal](https://img.shields.io/badge/Proposal-PDF-blue)](SS25CSE404_SatelliteClassificationProposal.pdf)  
+[![Presentation](https://img.shields.io/badge/Presentation-PDF-orange)](SatelliteClassificationCNNGNNPresentation.pdf)
+
+---
+
+# Feel free to contact me at **baghereb@msu.edu** with any questions!
