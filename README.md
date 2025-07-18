@@ -81,8 +81,8 @@ Special thanks to:
 
 # **Related Files**
 
-[![Proposal](https://img.shields.io/badge/Proposal-PDF-blue)](SS25CSE404_SatelliteClassificationProposal.pdf)  
-[![Presentation](https://img.shields.io/badge/Presentation-PDF-orange)](SatelliteClassificationCNNGNNPresentation.pdf)
+[📄 Project Proposal](SS25CSE404_SateliteClassificationProposal.pdf)  
+[📄 Final Presentation](SateliteClassificationCNNGNNPresentation.pdf)
 
 ---
 
